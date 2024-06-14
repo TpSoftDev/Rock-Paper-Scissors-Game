@@ -12,7 +12,7 @@ def play():
     """
     print("Welcome to Rock Paper Scissors!")
     user = input("What's your choice? (R) for rock, (P) for paper, (S) for scissors\n").lower()
-    computer = random.choice(['r', 'p', 's'])
+    computer = random.choice(['R', 'P', 'S'])
 
     if user == computer:
         return f"Computer choice is {computer}. It's a Tie!"
