@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game
+# Tic Tac Toe
 
 ## Description
 
